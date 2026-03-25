@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -163,7 +163,7 @@
 </section>
 
 <footer>
-  <p>© 2026 Sumit Kumar | Built with HTML & CSS</p>
+  <p> Sumit Kumar</p>
 </footer>
 
 </body>
