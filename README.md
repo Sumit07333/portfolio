@@ -87,7 +87,7 @@
 </section>
 
 <footer>
-  <p>made by sumit (2026)</p>
+  <p> sumit </p>
 </footer>
 
 </body>
